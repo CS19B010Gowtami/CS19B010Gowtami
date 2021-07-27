@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gowtami_ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gowtami_ch" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gowtami ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gowtami ch" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gowtami-ch-828a64216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gowtami ch" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/gowtami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gowtami" height="30" width="40" /></a>
 <a href="https://instagram.com/gowtami.ch_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gowtami.ch_2002" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/cs19b010gowtami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cs19b010gowtami" height="30" width="40" /></a>
