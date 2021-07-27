@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cs19b010gowtami&label=Profile%20views&color=0e75b6&style=flat" alt="cs19b010gowtami" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cs19b010gowtami" alt="cs19b010gowtami" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/gowtami_ch" target="blank"><img src="https://img.shields.io/twitter/follow/gowtami_ch?logo=twitter&style=for-the-badge" alt="gowtami_ch" /></a> </p>
+
 - 👯 I’m looking to collaborate on **Interesting Projects**
 
 - 👨‍💻 You can view my wort at [MyWork](https://github.com/CS19B010Gowtami?tab=repositories)
