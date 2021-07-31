@@ -2,6 +2,7 @@
 <h3 align="center">Student of IIT Tirupathi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cs19b010gowtami&label=Profile%20views&color=0e75b6&style=flat" alt="cs19b010gowtami" /> </p>
+
 - 👯 I’m looking to collaborate on **Interesting Projects**
 
 - 👨‍💻 You can view my wort at [MyWork](https://github.com/CS19B010Gowtami?tab=repositories)
