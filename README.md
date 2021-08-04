@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cs19b010gowtami&label=Profile%20views&color=0e75b6&style=flat" alt="cs19b010gowtami" /> </p>
 
-- 👯 I’m looking to collaborate on **Interesting Projects**
+👯 I’m looking to collaborate on **Interesting Projects**
 
-- 👨‍💻 You can view my wort at [MyWork](https://github.com/CS19B010Gowtami?tab=repositories)
+👨‍💻 You can view my wort at [MyWork](https://github.com/CS19B010Gowtami?tab=repositories)
 
-- 💬 Ask me about **c++, java ,**
+💬 Ask me about **c++, java ,**
 
-- 💻 Interested in Competitive Coding
+💻 Interested in Competitive Coding
 
-- 📫 How to reach me **cs19b010@iittp.ac.in**
+📫 How to reach me **cs19b010@iittp.ac.in**
 
-- 📄 Know about my experiences [resume](resume)
+📄 Know about my experiences [resume](resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
