@@ -7,7 +7,7 @@
 
 👨‍💻 You can view my wort at [MyWork](https://github.com/CS19B010Gowtami?tab=repositories)
 
-💬 Ask me about **c++, java ,**
+💬 Ask me about **c++, java , python**
 
 💻 Interested in Competitive Coding
 
